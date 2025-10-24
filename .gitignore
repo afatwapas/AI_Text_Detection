@@ -1,0 +1,22 @@
+# React frontend
+frontend/node_modules/
+frontend/build/
+
+# Python backend
+backend/venv/
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+.env
+
+# Ignore model files
+roberta_ai_vs_human_tf/
+*.h5
+*.ckpt
+*.pt
+*.pb
+
+backend/roberta_ai_vs_human_tf/
+
